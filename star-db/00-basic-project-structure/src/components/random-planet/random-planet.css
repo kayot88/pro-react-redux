@@ -1,5 +1,6 @@
 .random-planet {
   display: flex;
+  /* justify-content: center; */
   padding: 1rem;
 }
 
@@ -15,9 +16,9 @@
 }
 
 .random-planet .list-group-item {
-  padding: .25rem;
+  padding: 0.25rem;
 }
 
 .random-planet .list-group-item .term {
-  margin-right: .5rem;
+  margin-right: 0.5rem;
 }
